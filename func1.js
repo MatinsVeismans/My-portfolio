@@ -1,4 +1,4 @@
-import { projects as myProjects} from "/temp/projects.js";
+import { concepts as myProjects} from "/temp/concepts.js";
 const content = document.querySelectorAll('.content');
 // const container = document.querySelector('.btn-container')
 // const btns = document.querySelectorAll('.topic-btn')
