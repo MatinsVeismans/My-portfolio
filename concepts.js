@@ -1,4 +1,4 @@
-export const projects = [
+export const concepts = [
     {
         name:'Manual speed setter',
         category: 'Automotive',
