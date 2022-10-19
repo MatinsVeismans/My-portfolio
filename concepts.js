@@ -35,5 +35,15 @@ export const projects = [
         <br>
         <br>
         It would also work as security camera and fire alarm. If the alarm is disabled app on phone or any other device will alert the user by telling that it is disabled or a malfunction is detected.`
+    },
+    {
+        name: 'Emphilator or Emphilinator',
+        category: 'Medicine',
+        description: `
+        A medical device that disables mind and allows to gain controls over humans' body parts limbs, mouth, etc. 
+        Although there is no explanation how this is possible, it is thought to be dangerous and can cause risk of stroke, dementia, etc.
+        I imagined that to use the device you would connect many electrodes to your brain and use high voltage and current to active it...
+        The device would use joystick to control legs and arms, buttons for various functions, and keyboard to speak.
+        `
     }
 ]
